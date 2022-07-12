@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-select,input[type="text"],input[type="password"],input[type="number"]{
+select,input[type="text"],input[type="password"]{
   text-align: center;
 }
 h1{
